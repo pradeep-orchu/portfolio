@@ -1,6 +1,7 @@
 import React from 'react'
 
 export default function Navbar() {
+  
   return (
     <nav className="mx-20 p-5 scroll-bar-hide">
     <div className="container mx-auto">
@@ -14,6 +15,7 @@ export default function Navbar() {
         </ul>
       </div>
     </div>
+    
   </nav>
   )
 }
