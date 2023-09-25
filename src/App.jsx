@@ -4,9 +4,8 @@ import Navbar from "./components/Navbar";
 function App() {
   return (
     <>
-     <div className=" h-screen bg-neutral-50">
+     <div className=" bg-neutral-50">
       <Navbar/>
-      <Hero/>
     </div>
     </>
   )

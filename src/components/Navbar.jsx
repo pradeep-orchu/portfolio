@@ -1,9 +1,9 @@
 import React from 'react'
 
 export default function Navbar() {
-  
+
   return (
-    <nav className="mx-20 p-5 scroll-bar-hide">
+    <nav className=" p-5 scroll-bar-hide">
     <div className="container mx-auto">
       <div className="flex items-center justify-between">
         <div className="text-xl font-bold text-slate-800">Pradeep Orchu</div>
@@ -15,7 +15,6 @@ export default function Navbar() {
         </ul>
       </div>
     </div>
-    
   </nav>
   )
 }
